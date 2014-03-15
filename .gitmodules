@@ -1,0 +1,9 @@
+[submodule "batti"]
+	path = batti
+	url = https://github.com/foss-np/batti/
+[submodule "2utf8"]
+	path = 2utf8
+	url = https://github.com/foss-np/2utf8/
+[submodule "vtk100_colors"]
+	path = vtk100_colors
+	url = https://github.com/bekar/vtk100-colors.git
